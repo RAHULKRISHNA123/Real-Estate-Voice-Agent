@@ -93,7 +93,7 @@ nav ul li a:hover {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #f39c12;
     top: 10%;
     left: 10%;
     animation: float 8s ease-in-out infinite;
@@ -104,7 +104,7 @@ nav ul li a:hover {
     height: 0;
     border-left: 100px solid transparent;
     border-right: 100px solid transparent;
-    border-bottom: 173px solid #fff;
+    border-bottom: 173px solid #e74c3c;
     top: 60%;
     right: 15%;
     animation: rotate 10s linear infinite;
@@ -113,7 +113,7 @@ nav ul li a:hover {
 .square {
     width: 150px;
     height: 150px;
-    background-color: #fff;
+    background-color: #2ecc71;
     bottom: 20%;
     left: 20%;
     animation: pulse 5s ease-in-out infinite;
@@ -122,7 +122,7 @@ nav ul li a:hover {
 .rectangle {
     width: 300px;
     height: 100px;
-    background-color: #fff;
+    background-color: #9b59b6;
     top: 40%;
     right: 5%;
     animation: slide 7s ease-in-out infinite;
